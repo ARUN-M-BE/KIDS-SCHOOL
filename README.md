@@ -19,11 +19,11 @@ You can try out Kidz by visiting the [live demo](https://jofinity.com/appletrees
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](application/screenshot/2023-09-30 (1).png)
+![Screenshot 2](application/screenshot/2023-09-30 (2).png)
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](application/screenshot/2023-09-30 (3).png)
+![Screenshot 4](application/screenshot/2023-09-30 (4).png)
 
 ## Installation
 
