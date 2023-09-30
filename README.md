@@ -71,7 +71,7 @@ Follow these steps to set up Kidz on your local machine:
   </div>
 </div>
 
-
+```
 ## Contributing
 
 We welcome contributions from the community! If you'd like to enhance KidzLearn or report any issues, please open an [issue](https:/ARUN-M-BE/KIDS-SCHOOL/github.com//issues) or submit a [pull request](https://github.com/ARUN-M-BE/KIDS-SCHOOL/pulls).
