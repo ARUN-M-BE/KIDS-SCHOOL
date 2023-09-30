@@ -1,56 +1,76 @@
-# KidsLearnPHP 🚀
+# Kidz - Math Quiz
 
-Welcome to KidsLearnPHP, an exciting PHP learning project for kids!
-
-## About
-
-KidsLearnPHP is a fun and interactive way for children to start their journey into the world of programming with PHP. This project provides hands-on exercises, simple coding examples, and a safe environment for kids to learn PHP basics.
-
-![KidsLearnPHP Screenshot](screenshot.png)
+KidzLearn is an interactive web application designed for kids school having fun. This PHP project is an excellent way for young learners to enhance their abilities through an engaging  format.
 
 ## Features
 
-- 🎉 Simple and interactive PHP lessons.
-- 🖥️ Code editor with real-time code execution.
-- 🌟 Engaging quizzes to reinforce learning.
-- 💡 Step-by-step tutorials.
-- 🌈 Colorful and kid-friendly design.
+- Addition, Subtraction, Multiplication, and Division quizzes.
+- Randomly generated math questions.
+- Interactive and user-friendly interface.
+- Score tracking to motivate and challenge kids.
+- Colorful design and engaging graphics.
 
-## Getting Started
+## Demo
 
-1. Clone this repository to your local machine:
+You can try out Kidz by visiting the [live demo](https://jofinity.com/appletreeschool/home/).
 
-   ```bash
-   git clone https://github.com/ARUN-M-BE/KIDS SCHOOL.git
-Open the project folder in your favorite code editor.
+## Screenshots
 
-Launch the project by running a local web server:
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-bash
-Copy code
-php -S localhost:8000
-Open your web browser and visit http://localhost:8000 to start learning PHP!
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-Code Examples
-Here's a simple PHP code snippet that prints "Hello, Kids!" on the screen:
+## Installation
 
-php
-Copy code
-<?php
-  echo "Hello, Kids!";
-?>
-Explore more examples in the examples directory.
+Follow these steps to set up Kidz on your local machine:
 
-Demo
-Check out our live demo to see KidsLearnPHP in action:
-Demo
+1. Clone this GitHub repository:
 
-Contribute
-We welcome contributions from anyone who wants to improve this project and make it even more kid-friendly. Feel free to open issues, submit pull requests, or suggest new features.
+   ```
+   git clone https://github.com/ARUN-M-BE/KIDS-SCHOOL.git
+   ```
 
-Credits
-Developed by [ARUN_M]
-Illustrations by [Jofinity]
-License
-This project is licensed under the MIT License.
+2. Navigate to the project directory:
 
+   ```
+   cd kidz-school
+   ```
+
+3. Start a PHP development server:
+
+   ```
+   php -S localhost:8080
+   ```
+
+4. Open your web browser and visit `http://localhost:8080` to access Kidz.
+
+## Usage
+
+1. Choose a class (daycare,pre-kg,play-school,lkg,ukg,).
+2. Selecting the correct option.
+3. Your childern future is our hands.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to enhance KidzLearn or report any issues, please open an [issue](https://github.com/yourusername/kidzlearn-math-quiz/issues) or submit a [pull request](https://github.com/ARUN-M-BE/KIDS-SCHOOL/pulls).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+- Created by [Arun M]
+- Designed with love by [Arun M]
+
+## About
+
+This project is part of [Kidz]'s initiative to promote coding and math skills among young students. We believe that learning can be fun, and KidzLearn is designed to make learning math an enjoyable experience for kids.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact us at [arunm102301@gmail.com].
+
+---
