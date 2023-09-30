@@ -55,9 +55,26 @@ Follow these steps to set up Kidz on your local machine:
 2. Selecting the correct option.
 3. Your childern future is our hands.
 
+```markdown
+<div style="text-align: center;">
+  <img src="icon.png" alt="Icon" width="100px">
+  <h2>Project Name</h2>
+  <p>Project description goes here...</p>
+  
+  <div style="display: inline-block; position: relative; width: 150px; height: 150px;">
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; background: #f2f2f2;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #3498db;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #e74c3c; transform: rotate(90deg);"></div>
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #e67e22; transform: rotate(180deg);"></div>
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #2ecc71; transform: rotate(270deg);"></div>
+    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); text-align: center; line-height: 150px; font-size: 24px; font-weight: bold; color: #333;">75%</div>
+  </div>
+</div>
+
+
 ## Contributing
 
-We welcome contributions from the community! If you'd like to enhance KidzLearn or report any issues, please open an [issue](https://github.com/yourusername/kidzlearn-math-quiz/issues) or submit a [pull request](https://github.com/ARUN-M-BE/KIDS-SCHOOL/pulls).
+We welcome contributions from the community! If you'd like to enhance KidzLearn or report any issues, please open an [issue](https:/ARUN-M-BE/KIDS-SCHOOL/github.com//issues) or submit a [pull request](https://github.com/ARUN-M-BE/KIDS-SCHOOL/pulls).
 
 ## License
 
@@ -77,51 +94,3 @@ This project is part of [Kidz]'s initiative to promote coding and math skills am
 If you have any questions or suggestions, feel free to contact us at [arunm102301@gmail.com].
 
 ---
-```markdown
-# My Awesome Project
-
-[![GitHub license](https://img.shields.io/github/license/ARUN-M-BE/KIDS-SCHOOL)](https://github.com/ARUN-M-BE/KIDS-SCHOOL/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ARUN-M-BE/KIDS-SCHOOL)](https://github.com/ARUN-M-BE/KIDS-SCHOOL/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ARUN-M-BE/KIDS-SCHOOL)](https://github.com/ARUN-M-BE/KIDS-SCHOOL/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ARUN-M-BE/KIDS-SCHOOL)](https://github.com/ARUN-M-BE/KIDS-SCHOOL/network)
-
-[![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-green)](https://github.com/ARUN-M-BE/KIDS-SCHOOL)
-[![Build Status](https://img.shields.io/travis/ARUN-M-BE/KIDS-SCHOOL/main)](https://travis-ci.org/github/ARUN-M-BE/KIDS-SCHOOL)
-[![Code Coverage](https://img.shields.io/codecov/c/gh/ARUN-M-BE/KIDS-SCHOOL/main)](https://codecov.io/gh/ARUN-M-BE/KIDS-SCHOOL)
-[![Dependencies](https://img.shields.io/david/ARUN-M-BE/KIDS-SCHOOL)](https://david-dm.org/ARUN-M-BE/KIDS-SCHOOL)
-
-A brief description of your awesome project goes here.
-
-## Features
-
-- Feature 1: Describe what it does.
-- Feature 2: Describe what it does.
-
-## Installation
-
-Provide step-by-step instructions on how to install and run your project locally.
-
-```bash
-git clone https://github.com/ARUN-M-BE/KIDS-SCHOOL.git
-cd your-repo
-npm install
-npm start
-```
-
-## Usage
-
-Explain how to use your project with code examples.
-
-```javascript
-const myAwesomeFunction = () => {
-  // Your code here
-};
-```
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines before getting started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
