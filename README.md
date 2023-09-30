@@ -21,7 +21,7 @@ KidsLearnPHP is a fun and interactive way for children to start their journey in
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/KidsLearnPHP.git
+   git clone https://github.com/ARUN-M-BE/KIDS SCHOOL.git
 Open the project folder in your favorite code editor.
 
 Launch the project by running a local web server:
@@ -49,14 +49,8 @@ Contribute
 We welcome contributions from anyone who wants to improve this project and make it even more kid-friendly. Feel free to open issues, submit pull requests, or suggest new features.
 
 Credits
-Developed by [Your Name]
-Illustrations by [Illustrator Name]
+Developed by [ARUN_M]
+Illustrations by [Jofinity]
 License
 This project is licensed under the MIT License.
 
-
-Replace `[Your Name]`, `[Illustrator Name]`, and other placeholders with the appropriate names and information.
-
-Make sure to create the `screenshot.png`, `demo-button.png`, and `LICENSE` files and include them in your repository. Additionally, host your live demo on a platform like Netlify, Vercel, or GitHub Pages, and update the "Demo" button link accordingly.
-
-This README provides an attractive and informative overview of the KidsLearnPHP project, making it inviting and easy for kids and parents to get started with PHP programming.
