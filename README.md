@@ -56,20 +56,15 @@ Follow these steps to set up Kidz on your local machine:
 3. Your childern future is our hands.
 
 ```markdown
-<div style="text-align: center;">
-  <img src="icon.png" alt="Icon" width="100px">
-  <h2>Project Name</h2>
-  <p>Project description goes here...</p>
-  
-  <div style="display: inline-block; position: relative; width: 150px; height: 150px;">
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; background: #f2f2f2;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #3498db;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #e74c3c; transform: rotate(90deg);"></div>
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #e67e22; transform: rotate(180deg);"></div>
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); background: #2ecc71; transform: rotate(270deg);"></div>
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 50%; clip: rect(0, 75px, 150px, 0); text-align: center; line-height: 150px; font-size: 24px; font-weight: bold; color: #333;">75%</div>
-  </div>
-</div>
+# Project Name
+
+![Project Icon](icon.png)
+
+Project description goes here...
+
+Progress: 75%
+
+[![-----------------------------------------------------](https://progress-bar.dev/75/)](https://github.com/ARUN-M-BE/KIDS-SCHOOL)
 
 ```
 ## Contributing
