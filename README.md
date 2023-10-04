@@ -19,8 +19,8 @@ You can try out Kidz by visiting the [live demo](https://jofinity.com/appletrees
 
 ## Screenshots
 ![screenshot](admision.png)
-![screenshot](galary.png)
 ![screenshot](form.png)
+![screenshot](galary.png)
 ![screenshot](home.png)
 ![screenshot](event.png)
 
