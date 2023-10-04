@@ -18,12 +18,12 @@ Kidz is an interactive web application designed for kids school having fun. This
 You can try out Kidz by visiting the [live demo](https://jofinity.com/appletreeschool/home/).
 
 ## Screenshots
-
-![2023-09-30 (1)](application/screenshot/2023-09-30 (1).png)
-![2023-09-30 (2)](application/screenshot/2023-09-30 (2).png)
-
-![Screenshot 3](application/screenshot/2023-09-30 (3).png)
-![Screenshot 4](application/screenshot/2023-09-30 (4).png)
+![screenshot](2023-09-30.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Installation
 
